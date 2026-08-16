@@ -1,0 +1,5 @@
+node_modules/
+db/history.db
+uploads/coins/*
+!uploads/coins/.gitkeep
+.DS_Store
